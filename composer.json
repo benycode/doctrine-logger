@@ -13,7 +13,7 @@
 		"doctrine/orm" : ">= 2.3.0"
 	},
 	"autoload" : {
-		"psr-0" : {
+		"psr-4" : {
 			"BenyCode\\DoctrinePsrLogger" : "src/"
 		}
 	}
