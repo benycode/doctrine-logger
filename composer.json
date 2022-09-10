@@ -14,7 +14,7 @@
 	},
 	"autoload" : {
 		"psr-4" : {
-			"BenyCode\\DoctrinePsrLogger" : "src/"
+			"BenyCode\\DoctrinePsrLogger\\" : "src/"
 		}
 	}
 }
