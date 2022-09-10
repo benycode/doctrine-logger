@@ -17,7 +17,7 @@ $ composer require benycode/doctrine-psr-logger
 
 ## Usage
 
-Then you are setting up Doctrine EntityManager setup logger (in example i'm using DI):
+Then you are setting up Doctrine EntityManager setup logger (in an example i'm using DI):
 
 ```php
 EntityManager::class => static function (ContainerInterface $container): EntityManager {
